@@ -1,5 +1,5 @@
 'use strict';
 
-var litecore = require('litecore-lib');
+var rogercore = require('rogercore-lib');
 
-module.exports = litecore;
+module.exports = rogercore;

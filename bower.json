@@ -1,20 +1,20 @@
 {
-  "name": "litecore",
-  "main": "./litecore.min.js",
+  "name": "rogercore",
+  "main": "./rogercore.min.js",
   "version": "0.13.5",
-  "homepage": "http://litecore.io",
+  "homepage": "http://rogercore.io",
   "authors": [
     "BitPay, Inc."
   ],
-  "description": "A pure, powerful core for your litecoin project.",
+  "description": "A pure, powerful core for your TheHolyRoger project.",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "litecoin",
-    "litecore",
-    "ltc",
-    "satoshi"
+    "theholyroger",
+    "rogercore",
+    "roger",
+    "ratoshi"
   ],
   "license": "MIT",
   "ignore": [

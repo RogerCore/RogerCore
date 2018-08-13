@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+
+var rogercore = require('rogercore-node/lib/cli/bitcore');
+var path = require('path');
+var servicesPath = path.resolve(__dirname, '../');
+var additionalServices = ['rogercore-insight-api', 'rogercore-insight-ui'];
+rogercore(servicesPath, additionalServices);
